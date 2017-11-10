@@ -7,16 +7,20 @@ Courtsey
 Lichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
 
 Source:
-Donor:
 
 Ronny Kohavi and Barry Becker Data Mining and Visualization Silicon Graphics. e-mail: ronnyk '@' live.com for questions.
+
 
 I am trying to apply ScikitLearn Logistic Regression here.
 
 Attribute Information:
+
+
 Listing of attributes: 
 
 >50K, <=50K. 
+
+Below are feature definitions. More can be found in the notebooks.
 
 age: continuous. 
 workclass: Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked. 
